@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: stg_transactions
+    description: "Tabla de limpieza de transacciones bancarias. Normaliza nombres y tipos de datos."
+    columns:
+      - name: transaction_id
+        description: "ID único de la transacción."
+        tests:
+          - unique
+          - not_null
+      - name: amount_usd
+        description: "Monto de la transacción en dólares."
+      - name: is_fraud_flag
+        description: "Indicador booleano: TRUE si es fraude, FALSE si es legítima."
