@@ -28,6 +28,7 @@ He diseñado un flujo de datos dividido en tres capas lógicas para asegurar la 
 ## 🚀 Modelos Clave
 * `stg_transactions`: Limpieza de IDs, formateo de fechas y normalización de montos.
 * `fct_fraud_summary`: Modelo final que clasifica las transacciones en niveles (Bajo, Medio, Alto Riesgo) basándose en reglas de negocio.
+* `dim_merchants`**: Dimensión que centraliza la información de los comercios con una **Surrogate Key** (`merchant_key`) generada por hashing.
 
 ---
 
