@@ -53,3 +53,9 @@ He creado un **Dashboard en Snowflake** que consume los datos finales de la capa
 <img width="1066" height="485" alt="image" src="https://github.com/user-attachments/assets/4ffd9963-5d79-4712-961c-6cb9c3a5a5cc" />
 
 *Visualización de niveles de riesgo por comercio.*
+
+---
+## 📊 Visualización del Job
+A continuación, se muestra el job ejecutado en el entorno Production que representa la ejecución de dbt build desde la fuente hasta el modelo final de negocio:
+<img width="1202" height="861" alt="image" src="https://github.com/user-attachments/assets/0aad2500-2884-4ed9-9017-b6f33c20951c" />
+
