@@ -43,3 +43,12 @@ A continuación, se muestra el grafo de linaje (Lineage Graph) que representa la
 
 > **<img width="964" height="403" alt="image" src="https://github.com/user-attachments/assets/78637370-cee6-4cea-8a43-6fe77f7271eb" />
 **
+---
+## 📊 Visualización e Insights
+
+He creado un **Dashboard en Snowflake** que consume los datos finales de la capa Gold. Este panel permite identificar rápidamente qué comercios presentan mayores incidencias de fraude potencial.
+
+![Dashboard de Análisis de Fraude]<img width="1066" height="485" alt="image" src="https://github.com/user-attachments/assets/4ffd9963-5d79-4712-961c-6cb9c3a5a5cc" />
+<img width="1066" height="485" alt="image" src="https://github.com/user-attachments/assets/4ffd9963-5d79-4712-961c-6cb9c3a5a5cc" />
+
+*Visualización de niveles de riesgo por comercio.*
