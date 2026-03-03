@@ -42,7 +42,8 @@ Para asegurar la integridad del pipeline, he implementado tests automáticos:
 ## 📊 Visualización del Linaje
 A continuación, se muestra el grafo de linaje (Lineage Graph) que representa la trazabilidad desde la fuente hasta el modelo final de negocio:
 
-> **<img width="964" height="403" alt="image" src="https://github.com/user-attachments/assets/78637370-cee6-4cea-8a43-6fe77f7271eb" />
+> **<img width="1229" height="435" alt="image" src="https://github.com/user-attachments/assets/6afff514-07e7-4613-8451-a75243e45381" />
+
 **
 ---
 ## 📊 Visualización e Insights
